@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Livelo](https://livelo.com.br/)
 
-- 👯 I’m looking to collaborate on an international oroject
+- 👯 I’m looking to collaborate on an international project
 
 - 👨‍💻 All of my projects are available at [https://wagnerghedin.com](https://wagnerghedin.com)
 
@@ -32,8 +32,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=w2gner&" alt="w2gner" /></p>
 
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/w4gner"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/w4gner" /></a></p><br><br>
-
+<p><a href="https://www.buymeacoffee.com/w4gner"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/w4gner" /></a></p><br><br>
 <!--
 **w2gner/w2gner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
