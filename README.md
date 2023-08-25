@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **wagnerghedin10@gmail.com**
 
-- 📄 Know about my experiences [https://shorturl.at/uwzP0](https://shorturl.at/uwzP0)
+- 📄 Know about my experiences [Curriculum](https://wagner-public.s3.amazonaws.com/Curriculum+.pdf)
 
 
 
