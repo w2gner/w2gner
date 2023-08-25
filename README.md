@@ -27,7 +27,7 @@
 
 <br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=w2gner&show_icons=true&locale=en&layout=compact" alt="w2gner" /></p>
-<br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=w2gner&show_icons=true&locale=en" alt="w2gner" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=w2gner&" alt="w2gner" /></p>
