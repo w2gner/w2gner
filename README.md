@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://wagnerghedin.com](https://wagnerghedin.com)
 
-- 💬 Ask me about **Grafana, JMeter and Pytest**
+- 💬 Ask me about **Grafana, JMeter and Redis**
 
 - 📫 How to reach me **wagnerghedin10@gmail.com**
 
