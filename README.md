@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I'm Wagner</h1>
-<h3 align="center">A Curious Software Engineer from Brazil</h3>
+<h3 align="center">A Genuinely Curious Software Engineer from Brazil</h3>
 
 - 🔭 I’m currently working on [Livelo](https://livelo.com.br/)
 
