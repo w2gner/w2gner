@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **wagnerghedin10@gmail.com**
 
-- 📄 Know about my experiences [here](https://wagner-public.s3.amazonaws.com/Curriculum+.pdf)
+- 📄 Know about my experiences [here](https://wagner-public.s3.amazonaws.com/Berlim.pdf)
 
 <br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=w2gner&show_icons=true&locale=en&layout=compact" alt="w2gner" /></p>
