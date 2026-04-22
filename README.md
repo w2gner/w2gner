@@ -1,4 +1,4 @@
-
+<!-- 
 
 Hi there!
 
@@ -12,4 +12,4 @@ Hi there!
 
 - 📫 You can react me out on **wagnerghedin10@gmail.com**
 
-- 📄 And you can learn about my experiences in more detailed [here](https://wagner-public.s3.amazonaws.com/Berlim.pdf)
+- 📄 And you can learn about my experiences in more detailed [here](https://wagner-public.s3.amazonaws.com/Berlim.pdf) -->
